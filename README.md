@@ -1,5 +1,5 @@
 # hello-world
 it's first repository
 
-Hi friends 
+hi friends 
 gutendevil here 
